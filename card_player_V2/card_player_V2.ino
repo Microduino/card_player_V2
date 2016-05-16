@@ -1,6 +1,6 @@
-#include "JQ6500.h"
+#include <JQ6500.h>
 #include "JQ6500_def.h"
-#include "U8glib.h"
+#include <U8glib.h>
 #include <SoftwareSerial.h>
 #include <Adafruit_NeoPixel.h>
 #include <EEPROM.h>
